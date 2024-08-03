@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.color-box{
+    background-color: green;
+    height: 500px;
+    width: 400px;
+    margin: 100px auto;
+}
+
+#change-color-btn{
+    margin-top: 230px;
+    margin-left: 130px;
+    border: none;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+#change-color-btn:hover{
+    background-color: black;
+    color: white;
+}
